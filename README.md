@@ -7,7 +7,7 @@ The Mataram region comprises 41 branches and aims to track the Year-to-Date (YtD
 ## Dataset Used
 - <a href="https://github.com/rdnmh24-ind/Dashboard-DPK-CASA/blob/main/Dashboard%20DPK%20CASA.xlsx">Dataset</a>
 
-## Questions (KPIs)
+## Insight
 
 - Observe fund growth trends.
 - Analyze growth gaps on an MTD, YTD, and YoY basis.
@@ -16,9 +16,12 @@ The Mataram region comprises 41 branches and aims to track the Year-to-Date (YtD
 - Dashboard Interaction <a href="https://github.com/rdnmh24-ind/Dashboard-DPK-CASA/blob/main/Dashboard%20DPK%20CASA.png">View Dashboard</a>
 
 ## Process
+
 - Review fund data to identify and address declines or anomalies.
 - Ensure figures align with growth trends and targets.
 - Facilitate the monitoring of funds across branches.
-- Enter the branch code in the "Input" section to view fund trends for other branches.
+- Enter the branch code in the "Insert" section to view fund trends for other branches.
 
 ## Dashboard
+
+<img width="1005" height="733" alt="Dashboard DPK CASA" src="https://github.com/user-attachments/assets/406c2d11-7616-473c-9ac4-293b50385010" />
