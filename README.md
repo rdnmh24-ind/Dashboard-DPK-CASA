@@ -1,5 +1,8 @@
-# Growth Trend of CASA & Third-Party Funds (Creating an Interactive Dashboard using MS Excel)
+# Growth Trend of CASA & DPK (Creating an Interactive Dashboard using MS Excel)
 
 ## Project Objective
 
 The Mataram region comprises 41 branches and aims to track the Year-to-Date (YtD) growth of each branch by simply inputting the branch code. This enables all branches to monitor their monthly performance achievements.
+
+## Dataset Used
+- <a href="https://github.com/rdnmh24-ind/Dashboard-DPK-CASA/blob/main/Dashboard%20DPK%20CASA.xlsx">Dataset</a>
